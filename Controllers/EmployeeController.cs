@@ -19,7 +19,7 @@ namespace CompanyApp.Controllers
             _repo = repo;
             _mapper = mapper;
         }
-
+        //mjujthgdfdhgjhsgfjhg,hjsrgfjhddfgjhhgfsv
         [HttpGet]
         public async Task<IActionResult> GetAll()
         {
